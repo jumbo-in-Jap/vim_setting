@@ -1,5 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Users/hanedakentarou/Desktop/warm-refuge-8340/image'
 let g:netrw_dirhist_2='/Users/hanedakentarou/Desktop/warm-refuge-8340/image/thumbnail'
 let g:netrw_dirhist_3='/usr/share/vim/test'
+let g:netrw_dirhist_4='/Users/hanedakentarou/Documents/nomadoma/nomadoma/iOS/nomadoma/Classes/40_www/html'
+let g:netrw_dirhist_5='/Users/hanedakentarou/Desktop/stash_test/test'
+let g:netrw_dirhist_6='/Users/hanedakentarou/Documents'
+let g:netrw_dirhist_7='/Users/hanedakentarou/Documents/000-retty/retty_android/RettyTest/assets/www'
+let g:netrw_dirhist_8='/Applications/MAMP/htdocs/debri_web/html'
